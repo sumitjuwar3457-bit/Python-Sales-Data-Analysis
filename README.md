@@ -225,7 +225,7 @@ Sales-Data-Analysis/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/sumitjuwar3457/Sales-Data-Analysis.git
+git clone https://github.com/sumitjuwar3457-bit/Python-Sales-Data-Analysis.git
 ```
 
 ### 2. Navigate to the project folder
