@@ -131,12 +131,25 @@ The following business questions and analytical areas were explored:
 
 The project includes the following visualizations:
 
-* 📈 Sales Trend
-* 📊 Profit by Category
-* 📊 Sales Representative Performance
-* 📊 Regional Performance
-* 📉 Discounts vs Profit
-* 📦 Profit Distribution using Boxplot
+## 📊 Key Visualizations
+
+### Sales Trend
+![Sales Trend](images/sales_trend.png)
+
+### Profit by Category
+![Profit by Category](images/profit_by_category.png)
+
+### Regional Performance
+![Regional Performance](images/regional_performance.png)
+
+### Sales Representative Performance
+![Sales Representative Performance](images/sales_rep_performance.png)
+
+### Discount vs Profit
+![Discount vs Profit](images/discount_vs_profit.png)
+
+### Profit Distribution Using Boxplot
+![Profit_Distribution_By_Category](images/profit_distribution_by_category.png)
 
 These visualizations were created using **Matplotlib and Seaborn**.
 
