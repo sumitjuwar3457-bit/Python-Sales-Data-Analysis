@@ -51,6 +51,17 @@ Region_and_Sales_Rep
 ```
 
 ---
+### 🔍 Business Questions
+
+- Which product category generates the highest profit?
+- Which region performs best?
+- Which sales representative generates the highest profit?
+- Does discounting have an impact on profitability?
+- Which months show stronger sales performance?
+- What payment methods are preferred by different customer types?
+- Are there any unusual profit transactions?
+
+---
 
 ## 🛠️ Tools & Technologies
 
