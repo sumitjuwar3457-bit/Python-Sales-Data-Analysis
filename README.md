@@ -149,7 +149,7 @@ The project includes the following visualizations:
 ![Discount vs Profit](images/discount_vs_profit.png)
 
 ### Profit Distribution Using Boxplot
-![Profit_Distribution_Using_Boxplot](profit_distribution_using_boxplot.png)
+![Profit_Distribution_Using_Boxplot](images/profit_distribution_using_boxplot.png)
 
 These visualizations were created using **Matplotlib and Seaborn**.
 
